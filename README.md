@@ -1,6 +1,9 @@
 # ARM-FM4-Cypress-Fujitsu
+
 Basic examples for compiling source code for ARM FM4, on Linux without private IDE
+
 Using CMSIS
+
 Tested on custom board with MB9BF367M ARM microcontroller.
 
 References:
