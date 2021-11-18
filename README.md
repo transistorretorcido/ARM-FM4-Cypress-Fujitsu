@@ -10,6 +10,6 @@ References:
 
 *-Fastbit Embedded Brain Academy - https://www.youtube.com/channel/UCa1REBV9hyrzGp2mjJCagBg
 
-*-CMSIS https://developer.arm.com/tools-and-software/embedded/cmsis
+*-CMSIS https://arm-software.github.io/CMSIS_5/Core/html/index.html
 
 *-Segger https://www.segger.com/products/development-tools/embedded-studio/
